@@ -46,5 +46,8 @@ To estbalish whether there are any environmental conditions that could be improv
 
 * Aesthetics (anything to improve, to adapt the home in line with householder preferences?)
 
+ _This information can form the basis of post-occupancy evaluation from the householder perspective, used to compare pre and post retrofit_
+
 * Legislation compliance (check with building control if anything in the building regulations above is unclear)
+
 
