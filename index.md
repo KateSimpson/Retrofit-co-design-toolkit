@@ -1,11 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/KateSimpson/Retrofit-co-design-toolkit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
 This is intended to be a collection of tools that can be sed in the design of retrofit interventions for indidvidual homes, please note these are developed by others but shared here together save others time.
 
 # Environmental tools
@@ -33,7 +25,7 @@ This is intended to be a collection of tools that can be sed in the design of re
  _This is Part L Conservation of fuel and power for existing buildings, shared by UK Government_
  
  * [Conservation areas](https://historicengland.org.uk/advice/hpg/has/conservation-areas/)
- _This is the UK guidance on conservation areas, find out if your home is in a local conservation area via your local authority_
+ _This is the UK guidance on conservation areas, find out if your home is in a local conservation area via your local authority Planning team_
  
 # Economical tools
 
@@ -46,34 +38,15 @@ _This website summarises a UK Government report of house price increases followi
 
 # Social tools
 
+* To estbalish whether there are any environmental conditions that could be improved, a walk through the house with a sketched floor plan, or a conversation regarding this is recommended, perhaps focusing on:
 
+* Thermal comfort (any cold areas, draughts, does the home lose heat quickly?)
 
-```markdown
-Syntax highlighted code block
+* Acoustics (any problems with noise ingress, or noisy appliances in the homee?)
 
-# Header 1
-## Header 2
-### Header 3
+* Air quality (any damp problems, or a lack of ventilation, especially when cooking or producing steam in the home?)
 
-- Bulleted
-- List
+* Aesthetics (anything to improve, to adapt the home in line with householder preferences?)
 
-1. Numbered
-2. List
+* Legislation compliance (check with building control if anything in the building regulations above is unclear)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KateSimpson/Retrofit-co-design-toolkit/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
