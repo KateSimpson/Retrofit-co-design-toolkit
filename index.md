@@ -2,8 +2,6 @@ This is intended to be a collection of tools that can be sed in the design of re
 
 # Environmental tools
 
-## Energy efficiency and carbon reduction
-
 * [Energy performance certificates](https://find-energy-certificate.digital.communities.gov.uk/find-a-certificate/search-by-postcode)
  
  _Search for an energy performance certificate for an indivodual home here_
