@@ -52,6 +52,6 @@ To estbalish whether there are any environmental conditions that could be improv
 
 # Open access data
 * [Open access data to inform retrofit](https://katesimpson.github.io/Open-access-data-driven-retrofit-evaluation/)
-_This set of data can provide insight on previous retrofit case studies or data to assist in the design of new schemes. There is not a graet amount of open data on energy use in homes so current retrofit projects could encourage this sharing, please get in touch if you think you can contribute here_
+_This set of data can provide insight on previous retrofit case studies or data to assist in the design of new schemes. There is not a huge amount of open data on energy use in homes so current retrofit projects could encourage this sharing, please get in touch if you think you can contribute here_
 
 
