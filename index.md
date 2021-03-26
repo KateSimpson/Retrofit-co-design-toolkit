@@ -27,7 +27,7 @@ This is intended to be a collection of tools that can be sed in the design of re
  
 # Economical tools
 
-* To estimate savings in fuel bills the domestic energy model above can be used
+To estimate savings in fuel bills the domestic energy model above can be used
 
 * [House price increases as a result of energy improvements](https://www.gov.uk/government/news/energy-saving-measures-boost-house-prices)
 _This website summarises a UK Government report of house price increases following energy improvements_
@@ -36,7 +36,7 @@ _This website summarises a UK Government report of house price increases followi
 
 # Social tools
 
-* To estbalish whether there are any environmental conditions that could be improved, a walk through the house with a sketched floor plan, or a conversation regarding this is recommended, perhaps focusing on:
+To estbalish whether there are any environmental conditions that could be improved, a walk through the house with a sketched floor plan, or a conversation regarding this is recommended, perhaps focusing on:
 
 * Thermal comfort (any cold areas, draughts, does the home lose heat quickly?)
 
