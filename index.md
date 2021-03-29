@@ -1,4 +1,4 @@
-This is intended to be a collection of tools that can be sed in the design of retrofit interventions for indidvidual homes, please note these are developed by others but shared here together save others time.
+This is intended to be a collection of tools that can be used in the design of retrofit interventions for indidvidual homes, please note these are developed by others but shared here together save others time.
 
 # Environmental tools
 
