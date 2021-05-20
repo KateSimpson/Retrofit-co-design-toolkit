@@ -1,4 +1,4 @@
-This is intended to be a collection of tools that can be used in the design of retrofit interventions for individual homes, please note these are developed by others but shared here together save others time.
+This is intended to be a collection of tools that can be used in the design of retrofit interventions for individual homes, please note that this is a working progress and mainly includes tools that are developed by others but shared here together save others time.
 
 # Social tools
 
