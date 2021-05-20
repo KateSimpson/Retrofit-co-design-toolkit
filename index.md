@@ -1,8 +1,28 @@
 This is intended to be a collection of tools that can be used in the design of retrofit interventions for individual homes, please note these are developed by others but shared here together save others time.
 
+# Social tools
+
+To establish whether there are any environmental conditions that could be improved, a walk through the house with a sketched floor plan, or a conversation regarding this is recommended, perhaps focusing on:
+
+* Thermal comfort (any cold areas, draughts, does the home lose heat quickly?)
+
+* Acoustics (any problems with noise ingress, or noisy appliances in the homee?)
+
+* Air quality (any damp problems, or a lack of ventilation, especially when cooking or producing steam in the home?)
+
+* Aesthetics (anything to improve, to adapt the home in line with householder preferences?)
+
+* Health (any conditions which are affected by conditions in the home?
+
+ _This information can form the basis of post-occupancy evaluation from the householder perspective, used to compare pre and post retrofit_
+
+* Legislation compliance (https://interactive.planningportal.co.uk/)
+
 # Environmental tools
 
 * [Energy performance certificates](https://find-energy-certificate.digital.communities.gov.uk/find-a-certificate/search-by-postcode)
+
+* Energy performance and carbon: What is the baseline and what is the target? 
  
  _Search for an energy performance certificate for an indivodual home here_
 
@@ -34,21 +54,26 @@ _This website summarises a UK Government report of house price increases followi
 
 * To find out if invividual interventions could be cheaper to maintain than at present, check out manufacturers information, or potentially speak to the installer for insight on this
 
-# Social tools
+# Technology
 
-To establish whether there are any environmental conditions that could be improved, a walk through the house with a sketched floor plan, or a conversation regarding this is recommended, perhaps focusing on:
+* What are the preferences for heat provision?
 
-* Thermal comfort (any cold areas, draughts, does the home lose heat quickly?)
+* What are your preferences for insulation?
 
-* Acoustics (any problems with noise ingress, or noisy appliances in the homee?)
+* Are windows and doors draught-proofed?
 
-* Air quality (any damp problems, or a lack of ventilation, especially when cooking or producing steam in the home?)
+* Do you have adequate ventilation or do you notice signs of inadequate ventilation such as condensation, odour or otherwise? 
 
-* Aesthetics (anything to improve, to adapt the home in line with householder preferences?)
+* What are your preferences for electricity provision?
 
- _This information can form the basis of post-occupancy evaluation from the householder perspective, used to compare pre and post retrofit_
+* How do you envisage controlling the heat, power and ventilation systems?
 
-* Legislation compliance (check with building control if anything in the building regulations above is unclear)
+* How much time and finance can you afford to spend on retrofit?
+
+* How much doyou envisage doing now versus future and in relation to maintenance?
+
+Further information here: [Centre for Sustainable Energy's Advice for Householders](https://www.cse.org.uk/advice/advice-and-support)
+and here: [Energy Saving Trust](https://energysavingtrust.org.uk/energy-at-home/)
 
 # Open access data
 * [Open access data to inform retrofit](https://katesimpson.github.io/Open-access-data-driven-retrofit-evaluation/)
