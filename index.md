@@ -29,6 +29,10 @@ To establish whether there are any environmental conditions that could be improv
 * [Domestic energy model](https://sap2012.readthedocs.io/en/latest/)
  
  _This open access version of SAP 2012, based on the BREDEM methodology, has been created and shared by Steven Firth and Ben Hall, Loughborough University. This can be used to model poetntial improvements in energy performance from fabric, heat and power interventions to the home, but may require additional support in using_
+ 
+ * [Domestic energy model wth user-frendly interface](https://github.com/TrystanLea/SAPjs)
+ 
+ _This open access version of SAP 2012 is similar to the above but with a user-friendly interface, deeloped by Trystan Lea_
 
 * [Domestic energy model guidance](https://www.bre.co.uk/filelibrary/SAP/2012/SAP-2012_9-92.pdf)
 
