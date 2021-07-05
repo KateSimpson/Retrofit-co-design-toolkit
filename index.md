@@ -98,6 +98,8 @@ _This website summarises a UK Government report of house price increases followi
 
 * How much doyou envisage doing now versus future and in relation to maintenance?
 
+Information on insulation, cladding, windows, ventilation, heat and power generation can be found via the [Green Spec](https://www.greenspec.co.uk/building-design/housing-refurb-retrofit/) website.
+
 Further information here: [Centre for Sustainable Energy's Advice for Householders](https://www.cse.org.uk/advice/advice-and-support)
 and here: [Energy Saving Trust](https://energysavingtrust.org.uk/energy-at-home/)
 
