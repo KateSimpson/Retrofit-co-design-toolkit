@@ -8,24 +8,12 @@ There is a lot to consider in making a decision towards retrofit, this guide aim
 
 # Why co-design?
 Co-design allows those not trained in design to partake and input ideas from their own knowledge, experience and aspirations.
-This diagram summarises how this can take place in the home enironment.
+This diagram summarises how this can take place in the home enironment, moving through social, environmental and economical tools.
 
 ![image](https://user-images.githubusercontent.com/47245731/124619744-d10e2280-de70-11eb-8a30-9202b2197853.png)
 
-# Heat flow principles
-Reducing heat loss through the fabric reduces the demand for heat,and subsequent energy and emissions associated. Here are a few heat flow principles to bear in mind:
-
-* Heat flows from hot to cold by conduction, conection and radiation
-
-* Heat flow cannot be stopped but can be slowed
-
-* Insulation resists heat flow and can be measureed by it's U-value (W/m2K) - the lower the alue tohe lower the transfer of heat
-
-This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/127620) has some further concise information relating to heat flow.
-
 
 # Social tools
-
 To establish whether there are any environmental conditions that could be improved, a walk through the house with a sketched floor plan, or a conversation regarding this is recommended, perhaps focusing on:
 
 * Thermal comfort (any cold areas, draughts, does the home lose heat quickly?)
@@ -43,6 +31,16 @@ To establish whether there are any environmental conditions that could be improv
 * Legislation compliance (https://interactive.planningportal.co.uk/)
 
 # Environmental tools
+These tools concern energy and carbon, mainly for space heating. Reducing heat loss through the fabric reduces the demand for heat,and subsequent energy and emissions associated. Here are a few heat flow principles to bear in mind:
+
+* Heat flows from hot to cold by conduction, conection and radiation
+
+* Heat flow cannot be stopped but can be slowed
+
+* Insulation resists heat flow and can be measureed by it's U-value (W/m2K) - the lower the alue tohe lower the transfer of heat
+
+This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/127620) has some further concise information relating to heat flow.
+
 
 * [Energy performance certificates](https://find-energy-certificate.digital.communities.gov.uk/find-a-certificate/search-by-postcode)
 
