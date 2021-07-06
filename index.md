@@ -63,6 +63,12 @@ To establish whether there are any environmental conditions that could be improv
 * [Embodied carbon database](https://circularecology.com/embodied-carbon-footprint-database.html)
 
  _This is openly shared by Circular Ecology, as embodied carbon is not yet Goverened in the UK the data is not shared centrally_
+ 
+ An example of embodied carbon per insulation material is gien here:
+ 
+ |Material|Density (kg/m3)|Thermal conductivity (W/m2K)|Fire class|Water resistance|Expected life (years)|
+ |--------|-------|-------------------|---------|----------------|-------------|
+ |Stone wool|35-130|1|A1|Water repellant|50|
 
 * [Meet regulations](https://www.planningportal.co.uk/info/200135/approved_documents/74/part_l_-_conservation_of_fuel_and_power/2)
  
