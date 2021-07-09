@@ -14,7 +14,7 @@ This diagram summarises how this can take place in the home enironment, moving t
 
 
 # Social tools
-To establish whether there are any environmental conditions that could be improved, sketching the home is recommended, followed by a later walk through the home to identify possible areas of discomfort by evaluating the following parameters on a scale from -3 to +3.
+To establish whether there are any environmental conditions that could be improved, sketching the home is recommended, followed by a later walk through the home to identify possible areas of discomfort by evaluating the following parameters on a scale from -3 to +3 (very poor or cold to very good or hot).
 
 * Thermal comfort (any cold areas, draughts, does the home lose heat quickly?)
 
