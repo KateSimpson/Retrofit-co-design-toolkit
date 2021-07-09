@@ -52,7 +52,7 @@ This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/1276
  
  _This open access version of SAP 2012, based on the BREDEM methodology, has been created and shared by Steven Firth and Ben Hall, Loughborough University. This can be used to model poetntial improvements in energy performance from fabric, heat and power interventions to the home, but may require additional support in using_
  
- Examples of potetial carbon savings for space heating per insulation upgrades are gien here for typical UK housing archetypes and for a ariety of heating set points (16C-21C)
+ Examples of potetial carbon savings for space heating per insulation upgrades are gien here for typical UK housing archetypes and for a variety of heating set points (16C-21C)
  
  ![image](https://user-images.githubusercontent.com/47245731/124459467-0e49b600-dd86-11eb-9a03-f8c3efc2ddb3.png)
 
