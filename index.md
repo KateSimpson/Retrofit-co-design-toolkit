@@ -37,7 +37,7 @@ These tools concern energy and carbon, mainly for space heating. Reducing heat l
 
 * Heat flow cannot be stopped but can be slowed
 
-* Insulation resists heat flow and can be measureed by it's U-value (W/m2K) - the lower the alue tohe lower the transfer of heat
+* Insulation resists heat flow and can be measureed by it's U-value (W/m2K) - the lower the value, the lower the transfer of heat
 
 This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/127620) has some further concise information relating to heat flow.
 
