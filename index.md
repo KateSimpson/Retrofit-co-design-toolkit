@@ -14,7 +14,7 @@ This diagram summarises how this can take place in the home enironment, moving t
 
 
 # Social tools
-To establish whether there are any environmental conditions that could be improved, a walk through the house with a sketched floor plan, or a conversation regarding this is recommended, perhaps focusing on:
+To establish whether there are any environmental conditions that could be improved, sketching the home is recommended, followed by a later walk through the home to identify possible areas of discomfort by evaluating the following parameters on a scale from -3 to +3.
 
 * Thermal comfort (any cold areas, draughts, does the home lose heat quickly?)
 
@@ -69,7 +69,15 @@ This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/1276
 
  _This is openly shared by Circular Ecology, as embodied carbon is not yet Goverened in the UK the data is not shared centrally_
  
- An example of data per insulation material is given here:
+ *[Embodied carbon overiew](https://www.greenspec.co.uk/building-design/embodied-energy/)
+ 
+ *[Embodied carbon of insulation](https://www.greenspec.co.uk/building-design/embodied-carbon-of-insulation/) - careful as this data is now quite old
+ 
+ *[Products with Enironmental Product Declarations (EPDs)](https://asbp.org.uk/online-briefing-paper/epd-uk-products)
+ 
+ *[Briefing paper on EPDs](https://asbp.org.uk/briefing-paper/epd-an-introduction)
+ 
+ An example of data per insulation material is given here (to be added -conflicting data found here!):
  
  |Material|Density (kg/m3)|Thermal conductivity (W/m2K)|Fire class|Water resistance|Expected life (years)|
  |--------|-------|-------------------|---------|----------------|-------------|
@@ -84,7 +92,7 @@ This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/1276
  
 # Economical tools
 
-To estimate savings in fuel bills the domestic energy model above can be used
+To estimate savings in fuel bills the domestic energy model above can be used.
 
 * [House price increases as a result of energy improvements](https://www.gov.uk/government/news/energy-saving-measures-boost-house-prices)
 _This website summarises a UK Government report of house price increases following energy improvements_
