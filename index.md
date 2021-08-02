@@ -83,6 +83,10 @@ This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/1276
  |--------|-------|-------------------|---------|----------------|-------------|
  |Stone wool|35-130||A1|Water repellant|50|
 
+*[MCS heat pump calculator](https://mcscertified.com/mcs-launch-new-improved-heat-pump-calculator/)
+
+This can assist in sizing a heat pump but takes a little time to think through and may need external support.
+
 * [Meet regulations](https://www.planningportal.co.uk/info/200135/approved_documents/74/part_l_-_conservation_of_fuel_and_power/2)
  
  _This is Part L Conservation of fuel and power for existing buildings, shared by UK Government_
