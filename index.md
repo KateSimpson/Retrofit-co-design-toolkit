@@ -81,7 +81,7 @@ This [guide](https://guides.co/g/insulation-manual-moisture-flow-principles/1276
  
  |Material|Density (kg/m3)|Thermal conductivity (W/m2K)|Fire class|Water resistance|Expected life (years)|
  |--------|-------|-------------------|---------|----------------|-------------|
- |Stone wool|35-130|1|A1|Water repellant|50|
+ |Stone wool|35-130||A1|Water repellant|50|
 
 * [Meet regulations](https://www.planningportal.co.uk/info/200135/approved_documents/74/part_l_-_conservation_of_fuel_and_power/2)
  
