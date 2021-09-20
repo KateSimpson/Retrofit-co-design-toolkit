@@ -123,13 +123,14 @@ _This website summarises a UK Government report of house price increases followi
 
 Information on insulation, cladding, windows, ventilation, heat and power generation can be found via the [Green Spec](https://www.greenspec.co.uk/building-design/housing-refurb-retrofit/) website.
 
+Further information here: [Centre for Sustainable Energy's Advice for Householders](https://www.cse.org.uk/advice/advice-and-support)
+and here: [Energy Saving Trust](https://energysavingtrust.org.uk/energy-at-home/)
+
 # Heat pump information
 
 Heat Pumps for the Home by John Cantor ebook: https://heatpumps.co.uk/book-heat-pumps-home/
-Via Trystan Lea: https://trystanlea.org.uk/
 
-Further information here: [Centre for Sustainable Energy's Advice for Householders](https://www.cse.org.uk/advice/advice-and-support)
-and here: [Energy Saving Trust](https://energysavingtrust.org.uk/energy-at-home/)
+Via Trystan Lea: https://trystanlea.org.uk/
 
 # Open access data
 * [Open access data to inform retrofit](https://katesimpson.github.io/Open-access-data-driven-retrofit-evaluation/)
